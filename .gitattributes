@@ -1,0 +1,2 @@
+# Model files are cp1251 with CRLF and Russian comments: never convert line endings or encodings.
+* -text
